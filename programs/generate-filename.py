@@ -8,5 +8,5 @@ def transform_string(s):
     s = re.sub(r'(-{2,})', '-', s)  # Убираем повторяющиеся символы "-"
     return s
 
-s = transform_string('Take a Ten Minutes Walk')
+s = transform_string('Does my number look big in this?')
 print(s)
