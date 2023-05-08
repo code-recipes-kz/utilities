@@ -9,9 +9,7 @@
 8. Advent of Code - 200
 9. Абрамян - 1090
 
-15306 * 13 = 198978
-
-Pascal, JavaScript, TypeScript, Ruby, Go, Python, Rust, C, C++, C#, Java, Kotlin, Dart
+Pascal, JavaScript, TypeScript, Ruby, Go, Python, Rust, C, C++, C#, Java, Kotlin, Dart, Swift, R, Clojure, Scala, Lua, Elixir, Haskell, CoffeeScript, Crystal, PHP, Julia,Perl, Elm, Groovy, Lisp
 
 Нельзя оценить:
 1. Численные методы

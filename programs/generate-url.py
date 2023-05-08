@@ -13,6 +13,6 @@ def transform_string(input_string):
     result_string = re.sub(r'\s+', '-', transliterated_string)
     return result_string
 
-text = transform_string('Метод половинного деления Python')
+text = transform_string('Интерполяция функции')
 
 print(text)
